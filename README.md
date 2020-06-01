@@ -9,3 +9,6 @@ The json file for all the X-SAMPA phones and their corresponding IPA phone and p
 ## Training
 In any one of the folder, run the following:
 python train.py --config config.json
+
+## Data
+The data is processed from Babel language packs. Please ask in issues for processed data.
