@@ -12,6 +12,7 @@ python 3, pytorch 1.4, h5py, numpy, scipy
 
 ### Phone Set
 The json file for all the X-SAMPA phones are in `multiview-babel-share/subwords_to_ids.json`
+
 The json file for all the X-SAMPA phones and their corresponding IPA phone and distinctive features are in `multiview-babel-phonetic/xsampa_phonetic_features.json`
 
 ### Training
