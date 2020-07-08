@@ -22,4 +22,4 @@ python train.py --config config.json
 ```
 
 ### Data
-(optional) The model is trained by Babel language packs. To train from scratch, please email the author for pre-processed data.
+The model is trained by Babel language packs. To train from scratch, please email the author for pre-processed data.
