@@ -9,7 +9,7 @@ The two directories correspond to two different architecture we used.
 
 The `multiview-babel-share` folder contains the multiview model trained with phone sequence. 
 
-The `multiview-babel-phonetic` folder contains the multiview model trained with phonetic features.
+The `multiview-babel-phonetic` folder contains the multiview model trained with distinctive features.
 
 ### Dependencies
 python 3, pytorch 1.4, h5py, numpy, scipy
