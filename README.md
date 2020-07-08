@@ -1,9 +1,6 @@
 # Multilingual-AWE
 
-This recipe trains multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) described in [Hu et al., 2020](https://arxiv.org/pdf/2006.14007.pdf).
-
-The training objective is based on the multiview triplet loss functions
-of [He et al., 2016](https://arxiv.org/pdf/1611.04496.pdf).
+This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Hu et al., 2020](https://arxiv.org/pdf/2006.14007.pdf).
 
 The two directories correspond to two different architecture we used. 
 
