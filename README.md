@@ -5,7 +5,11 @@ This recipe trains multilingual acoustic word embeddings (AWEs) and acoustically
 The training objective is based on the multiview triplet loss functions
 of [He et al., 2016](https://arxiv.org/pdf/1611.04496.pdf).
 
-The two directories correspond to two different architecture we used. The multiview-babel-share folder contains the multiview model trained with phone sequence. The multiview-babel-phonetic folder contains the multiview model trained with phonetic features.
+The two directories correspond to two different architecture we used. 
+
+The `multiview-babel-share` folder contains the multiview model trained with phone sequence. 
+
+The `multiview-babel-phonetic` folder contains the multiview model trained with phonetic features.
 
 ### Dependencies
 python 3, pytorch 1.4, h5py, numpy, scipy
