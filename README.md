@@ -18,7 +18,7 @@ The json file for all the X-SAMPA phones, corresponding IPA phones, and distinct
 The model is trained by Babel language packs (Cantonese, Assamese, Bengali, Pashto, Turkish, Tagalog, Tamil, Zulu, Lithuanian, Guarani, Igbo) and Switchboard dataset (English). To train from scratch, please contact the authors for all the data. A sample processed dataset `sample_dataset` is given in this repo.
 
 ### Quick Start
-Multiview model trained with X-SAMPA phone sequence
+Multiview model trained with X-SAMPA phone sequence:
 
 All the checkpoints, output embeddings will be saved in `multiview-babel-phone/expt/sample/`
 ```
