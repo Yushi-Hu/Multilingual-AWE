@@ -1,6 +1,17 @@
 # Multilingual Acoustic Word Embeddings
 
-This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Hu et al., 2020](https://arxiv.org/pdf/2006.14007.pdf).
+This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Multilingual Jointly Trained Acoustic and Written Word Embeddings](https://arxiv.org/pdf/2006.14007.pdf).
+
+```
+@misc{hu2020multilingual,
+    title={Multilingual Jointly Trained Acoustic and Written Word Embeddings},
+    author={Yushi Hu and Shane Settle and Karen Livescu},
+    year={2020},
+    eprint={2006.14007},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
 
 The `multiview-babel-phone` folder contains the multiview model trained with phone sequence. 
 
