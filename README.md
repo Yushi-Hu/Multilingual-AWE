@@ -12,7 +12,7 @@ python 3, pytorch 1.4, h5py, numpy, scipy
 ### Phone Set
 The json file for all the X-SAMPA phones are in `subwords_to_ids.json`
 
-The json file for all the X-SAMPA phones and their corresponding IPA phone and distinctive features are in `xsampa_phonetic_features.json`
+The json file for all the X-SAMPA phones, corresponding IPA phones, and distinctive features are in `xsampa_phonetic_features.json`
 
 ### Data
 The model is trained by Babel language packs (Cantonese, Assamese, Bengali, Pashto, Turkish, Tagalog, Tamil, Zulu, Lithuanian, Guarani, Igbo) and Switchboard dataset (English). To train from scratch, please contact the authors for all the data. A sample processed dataset `sample_dataset` is given in this repo.
