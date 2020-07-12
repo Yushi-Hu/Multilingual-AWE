@@ -21,11 +21,14 @@ The model is trained by Babel language packs (Cantonese, Assamese, Bengali, Pash
 Multiview model trained with X-SAMPA phone sequence:
 ```
 # evaluate the pre-trained model on sample dataset and get word embeddings
+
 cd multiview-babel-phone/code
 python evaluate.py --config ../expt/sample/config.json
 
 # train the model with sample dataset
-# fine tune on pre-trained model (to train from scratch, change fine_tune in config.json to False)
+# fine tune on pre-trained model 
+# (to train from scratch, change fine_tune in config.json to False)
+
 cd multiview-babel-phone/code
 python train.py --config ../expt/sample/config.json
 ```
@@ -33,11 +36,14 @@ python train.py --config ../expt/sample/config.json
 Multiview model trained with distinctive features:
 ```
 # evaluate the pre-trained model on sample dataset and get word embeddings
+
 cd multiview-babel-feature/code
 python evaluate.py --config ../expt/sample/config.json
 
 # train the model with sample dataset
-# fine tune on pre-trained model (to train from scratch, change fine_tune in config.json to False)
+# fine tune on pre-trained model 
+# (to train from scratch, change fine_tune in config.json to False)
+
 cd multiview-babel-feature/code
 python train.py --config ../expt/sample/config.json
 ```
