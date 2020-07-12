@@ -2,8 +2,6 @@
 
 This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Hu et al., 2020](https://arxiv.org/pdf/2006.14007.pdf).
 
-The two directories correspond to two different architecture we used. 
-
 The `multiview-babel-phone` folder contains the multiview model trained with phone sequence. 
 
 The `multiview-babel-feature` folder contains the multiview model trained with distinctive features.
