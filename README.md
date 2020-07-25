@@ -1,6 +1,6 @@
 # Multilingual Acoustic Word Embeddings
 
-This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Multilingual Jointly Trained Acoustic and Written Word Embeddings](https://arxiv.org/pdf/2006.14007.pdf) that will appear in InterSpeech 2020
+This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Multilingual Jointly Trained Acoustic and Written Word Embeddings](https://arxiv.org/pdf/2006.14007.pdf) that will appear in INTERSPEECH 2020.
 
 ```
 @misc{hu2020multilingual,
