@@ -1,15 +1,13 @@
 # Multilingual Acoustic Word Embeddings
 
-This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Multilingual Jointly Trained Acoustic and Written Word Embeddings](https://arxiv.org/pdf/2006.14007.pdf) that will appear in INTERSPEECH 2020.
+This is the code base for multilingual acoustic word embeddings (AWEs) and acoustically grounded word embeddings (AGWEs) in [Multilingual Jointly Trained Acoustic and Written Word Embeddings](https://arxiv.org/pdf/2006.14007.pdf) in INTERSPEECH 2020.
 
 ```
-@misc{hu2020multilingual,
+@inproceedings{hu2020multilingual,
     title={Multilingual Jointly Trained Acoustic and Written Word Embeddings},
     author={Yushi Hu and Shane Settle and Karen Livescu},
     year={2020},
-    eprint={2006.14007},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+    booktitle=interspeech
 }
 ```
 
