@@ -64,4 +64,6 @@ python train.py --config ../expt/sample/config.json
 ### Word Embedding Examples
 Visualization of word embeddings via Tensorflow projector:
 
-[projector link](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/projector-config.json)
+[acoustic word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/awe-projector-config.json)
+
+[acoustically grounded word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/projector-config.json)
