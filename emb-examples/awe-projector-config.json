@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "AWEs",
+      "tensorShape": [
+        1024,
+        1015
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/merge_acoustic_vec.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/merge_acoustic_word.tsv"
+    }
+  ]
+}
