@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "AGWEs",
+        "tensorShape": [
+          1024,
+          801
+        ],
+        "tensorPath": "",
+        "metadataPath": ""
+      }
+    ]
+  }
