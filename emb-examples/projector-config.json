@@ -6,8 +6,8 @@
           1024,
           801
         ],
-        "tensorPath": "",
-        "metadataPath": ""
+        "tensorPath": "https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/merge_vec.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/merge_word.tsv"
       }
     ]
   }
