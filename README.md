@@ -26,6 +26,14 @@ The json file for all the X-SAMPA phones, corresponding IPA phones, and distinct
 ### Data
 The model is trained by Babel language packs (Cantonese, Assamese, Bengali, Pashto, Turkish, Tagalog, Tamil, Zulu, Lithuanian, Guarani, Igbo) and Switchboard dataset (English). To train from scratch, please contact the authors for all the data. A sample processed dataset `sample_dataset` is given in this repo. We used FilterBank features with pitch in the sample dataset. The code also works for other kinds of acoustic features.
 
+### Word Embedding Examples
+Visualization of word embeddings via Tensorflow projector:
+
+[acoustic word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/awe-projector-config.json)
+
+[acoustically grounded word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/projector-config.json)
+
+
 ### Quick Start
 Multiview model trained with X-SAMPA phone sequence:
 
@@ -61,9 +69,4 @@ cd multiview-babel-feature/code
 python train.py --config ../expt/sample/config.json
 ```
 
-### Word Embedding Examples
-Visualization of word embeddings via Tensorflow projector:
 
-[acoustic word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/awe-projector-config.json)
-
-[acoustically grounded word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/projector-config.json)
