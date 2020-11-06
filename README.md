@@ -33,6 +33,7 @@ Visualization of word embeddings via Tensorflow projector:
 
 [acoustically grounded word embeddings visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/projector-config.json)
 
+[AWE and AGWE](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/all-projector-config.json)
 
 ### Quick Start
 Multiview model trained with X-SAMPA phone sequence:
