@@ -1,0 +1,11 @@
+{
+    "embeddings": [{
+        "tensorName": "AWEs",
+        "tensorShape": [
+            1024,
+            1816
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/vectors.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/labels.tsv"
+    }]
+}
