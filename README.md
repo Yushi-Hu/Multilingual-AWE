@@ -16,7 +16,7 @@ The `multiview-babel-phone` folder contains the multiview model trained with pho
 The `multiview-babel-feature` folder contains the multiview model trained with distinctive features.
 
 ### Dependencies
-python 3, pytorch 1.4, h5py, numpy, scipy, tensorboard
+python 3.7, pytorch 1.3, h5py, numpy, scipy, tensorboard
 
 ### Phone Set
 The json file for all the X-SAMPA phones are in `subwords_to_ids.json`
