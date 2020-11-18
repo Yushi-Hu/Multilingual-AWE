@@ -18,7 +18,7 @@ The `multiview-babel-feature` folder contains the multiview model trained with d
 ### Dependencies
 python 3.7, pytorch 1.3, h5py 2.9.0, numpy, scipy, tensorboard 1.14.0
 
-conda env yml file is provided in the repo
+The conda environment is provided in `pt130-cuda10.yml`
 
 ### Phone Set
 The json file for all the X-SAMPA phones are in `subwords_to_ids.json`
